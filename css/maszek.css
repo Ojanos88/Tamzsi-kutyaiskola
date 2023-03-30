@@ -1,0 +1,14 @@
+@charset "utf-8";
+.navbar-nav.mr-auto .nav-item .nav-link {
+	color: #F2FC4C;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: oblique;
+	font-weight: normal;
+	font-size: x-large;
+	text-shadow: 1px 1px #000000;
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light.center #navbarSupportedContent1 {
+}
+.container-fluid .navbar.navbar-expand-lg.navbar-light.bg-light.center {
+	background-image: url(../hatter.jpg);
+}
